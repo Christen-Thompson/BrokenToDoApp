@@ -6,8 +6,10 @@ You can see the way the original app works here:
 
 http://todomvc.com/examples/angularjs/#/
 
-* Fork the App
-* Run the app with your favorite local server (python, grunt, gulp etc ....)
+#Steps
+
+* Clone the app
+* Run the app with your favorite local server (python, node, express, grunt, gulp etc ....)
 * Make your changes
 * Send a zip file of the app to the directed email address.
 
